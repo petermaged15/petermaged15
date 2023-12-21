@@ -24,6 +24,3 @@ Happy Coding! 😊
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-
-
-⭐ From [ABSphreak](https://github.com/ABSphreak)
